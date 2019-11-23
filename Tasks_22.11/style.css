@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: #AFDCD9;
+	
+}
+
+h2{
+	display: block;
+	padding: 10px;
+	border:solid 2px #705072;
+	width: 200px;
+	text-align:center;
+	vertical-align: middle;
+	font-weight:bold;
+	left:250px;
+
+	
+	background-color: #D6B8D2
+}
