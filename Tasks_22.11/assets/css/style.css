@@ -1,11 +1,12 @@
 @charset "utf-8";
+@import "reset.css";
 /* CSS Document */
 body{
 	background-color: #AFDCD9;
 	
 }
 
-h2{
+li{
 	display: block;
 	padding: 10px;
 	border:solid 2px #705072;
