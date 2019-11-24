@@ -4,6 +4,9 @@ let string1 = "happy New Year!";
 let string2 = "Happy birsday!"
 
 function compare(str1, str2){
+
+	return str1.length - str2.length; // почему бы и нет?
+
     if(str1.length > str2.length){
         return 1;
     }
